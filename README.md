@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emilyzh007
-- 👀 I’m interested in crypto
+- 👀 I’m interested in crypto world!
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me ...
